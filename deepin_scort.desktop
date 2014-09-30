@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=DeepinScort
+GenericName=DeepinScort
+Comment=DeepinScort
+Exec=deepin-scrot/src/deepin-scrot
+Terminal=false 
+Type=Application
+StartupNotify=true
+Icon=deepin-scrot/theme/logo/deepin-scrot.ico
+Categories=KDE;QT;Utility;
