@@ -6,7 +6,7 @@ DeepinScrot
 
 ##截图工具的截图
 
-![](/image/deepin-scrot.png)
+![](http://eleveni386.7axu.com/image/deepin-scrot.png)
 
 ##说明
 
